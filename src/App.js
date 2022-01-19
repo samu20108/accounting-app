@@ -5,8 +5,8 @@ import Modal from "./Modal";
 function App() {
   return (
     <>
-      <Modal />
       <Table />
+      <Modal />
     </>
   );
 }
